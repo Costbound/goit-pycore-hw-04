@@ -1,6 +1,6 @@
 from pathlib import Path
 
-path = Path('task1/task1.txt').absolute()
+path = Path('./task1/task1.txt').absolute()
 
 
 def total_salary(path):
